@@ -5,15 +5,15 @@
 # Hey there 👋🏽, I'm [Ritwik](https://github.com/theritwikkundu "Ritwik Kundu")!
 
 <p align="center">
-	<a href = 'https://github.com/theritwikkundu' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30px' /></a>
+	<a href = 'https://github.com/theritwikkundu' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='40px' /></a>
     &nbsp;
-	<a href = 'https://www.linkedin.com/in/kundu-ritwik/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30px' /></a>
+	<a href = 'https://www.linkedin.com/in/kundu-ritwik/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='40px' /></a>
     &nbsp;
-    <a href = 'mailto:theritwikkundu@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30px' /></a>
+    <a href = 'mailto:theritwikkundu@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='40px' /></a>
     &nbsp;
-	<a href = 'https://www.instagram.com/theritwikkundu/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30px' /></a>
+	<a href = 'https://www.instagram.com/theritwikkundu/' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='40px' /></a>
     &nbsp;
-    <a href = 'https://twitter.com/theritwikkundu' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30px' /></a>
+    <a href = 'https://twitter.com/theritwikkundu' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='40px' /></a>
     &nbsp;
 </p>
 
@@ -82,17 +82,13 @@
 		</tr>
         </a>
 	</table>
-    <table>
-		<a align="center" href="https://github.com/theritwikkundu">
-		<tr>
+	<table>
+        <a align="center" href="https://github.com/theritwikkundu">
+        <tr>
 			<td>
 				<img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=theritwikkundu&theme=tokyonight" alt="Trophies" />
 			</td>
 		</tr>
-        </a>
-	</table>
-	<table>
-        <a align="center" href="https://github.com/theritwikkundu">
 		<tr>
 			<td>
 				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=theritwikkundu&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
@@ -118,20 +114,34 @@
 <br>
 
 <div>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" height="30px"/>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" height="30px"/>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" height="30px"/>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dart.svg" height="30px"/>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/flutter.svg" height="30px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="30px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="30px"/>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" height="30px"/>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" height="30px"/>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" height="30px"/>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ubuntu.svg" height="30px"/>
-<img src="https://i.pinimg.com/originals/78/9c/12/789c12998da2e3f915073c32257054c5.png" height="30px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="30px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30px"/>
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dart.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/flutter.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ubuntu.svg" height="35px"/>
+&nbsp;
+<img src="https://i.pinimg.com/originals/78/9c/12/789c12998da2e3f915073c32257054c5.png" height="35px"/>
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="35px"/>
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="35px"/>
+&nbsp;
 </div>
 
 <br>
@@ -153,5 +163,5 @@
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="40px">
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="45px">
 </p>
