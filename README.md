@@ -1,7 +1,5 @@
 ![Header](https://media-exp1.licdn.com/dms/image/C5616AQGVIIEB8IhAmQ/profile-displaybackgroundimage-shrink_350_1400/0/1634718062732?e=1640217600&v=beta&t=RoJE3ZefrectvX3hsVwFmWv56UWIZaMFz3iPmtmfmaU)
 
-<br>
-
 # Hey there 👋🏽, I'm [Ritwik](https://github.com/theritwikkundu "Ritwik Kundu")!
 
 <p align="center">
@@ -20,8 +18,6 @@
 <br>
 
 ### Hi, I'm a Flutter developer with interest in coding, design and much more. Looking forward to learn new things ✌🏽
-
-<br>
 
 <h2> 👨🏽‍💻 About Me </h2>
 
@@ -53,7 +49,7 @@
 
 ---
 
-<br><br>
+<br>
 
 <table tableborder=0>
 	<tr>		
@@ -107,7 +103,7 @@
 
 ---
 
-<br><br>
+<br>
 
 <h2>🔧 Interests</h2>
 
@@ -147,8 +143,6 @@
 <br>
 
 ---
-
-<br>
 
 <p align="right">
 <img  src="https://komarev.com/ghpvc/?username=theritwikkundu" alt="Ritwik Kundu" />
