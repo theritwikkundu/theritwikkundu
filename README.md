@@ -43,7 +43,7 @@
 
 - 🛢 &nbsp; MySQL | Firebase
 
-- 🔧 &nbsp; Git
+- 🔧 &nbsp; Git | GitHub
 
 ---
 
