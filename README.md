@@ -1,6 +1,6 @@
 ![Header](https://media-exp1.licdn.com/dms/image/C5616AQGVIIEB8IhAmQ/profile-displaybackgroundimage-shrink_350_1400/0/1634718062732?e=1640217600&v=beta&t=RoJE3ZefrectvX3hsVwFmWv56UWIZaMFz3iPmtmfmaU)
 
-# Hey there 👋🏽, I'm [Ritwik](https://github.com/theritwikkundu "Ritwik Kundu")!
+# Hey there 👋🏽, I'm [Ritwik](https://www.linkedin.com/in/kundu-ritwik/ "Ritwik Kundu")!
 
 <p align="center">
 	<a href = 'https://github.com/theritwikkundu' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='40px' /></a>
@@ -15,7 +15,7 @@
     &nbsp;
 </p>
 
-<br>
+
 
 ### Hi, I'm a Flutter developer with interest in coding, design and much more. Looking forward to learn new things ✌🏽
 
@@ -105,35 +105,35 @@
 
 <br>
 
-<div>
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dart.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/flutter.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ubuntu.svg" height="35px"/>
-&nbsp;
-<img src="https://i.pinimg.com/originals/78/9c/12/789c12998da2e3f915073c32257054c5.png" height="35px"/>
-&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="35px"/>
-&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="35px"/>
-&nbsp;
+<div align="center">
+	<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dart.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/flutter.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ubuntu.svg" height="35px"/>
+	&nbsp;
+	<img src="https://i.pinimg.com/originals/78/9c/12/789c12998da2e3f915073c32257054c5.png" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="35px"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="35px"/>
+	&nbsp;
 </div>
 
 <br>
