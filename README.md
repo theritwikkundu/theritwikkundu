@@ -1,4 +1,4 @@
-![Header](https://media-exp1.licdn.com/dms/image/C5616AQGVIIEB8IhAmQ/profile-displaybackgroundimage-shrink_350_1400/0/1634718062732?e=1649289600&v=beta&t=d3NRUXl-xPRnh9Uek_bZzC308rVPGPP1F3ouTmsKSD8)
+![Header](https://github.com/theritwikkundu/theritwikkundu/blob/main/rk-banner.jfif)
 
 # Hey there 👋🏽, I'm [Ritwik](https://www.linkedin.com/in/kundu-ritwik/ "Ritwik Kundu")!
 
