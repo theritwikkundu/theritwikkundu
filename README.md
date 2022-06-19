@@ -153,5 +153,5 @@
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="10px">
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="2px">
 </p>
